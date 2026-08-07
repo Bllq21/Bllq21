@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Bryan 👋
 
-<!--
-**Bllq21/Bllq21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer from Honduras with 6+ years across the stack — development,
+infrastructure, automation, and technical leadership, including leading dev teams.
 
-Here are some ideas to get you started:
+I build systems I'd want to maintain myself: web applications, backend services,
+automated workflows, Linux-based infrastructure. I care about how the pieces fit
+together, not just whether the code runs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring cybersecurity, DevOps, and system architecture through personal
+projects.
+
+🌐 Portfolio: https://bryanllq.pages.dev
+📫 Email: [bryan.lagos@proton.me](mailto:bryan.lagos@proton.me)
+
+**Languages & Frameworks**
+`Node.js` `Python` `TypeScript` `React` `Angular` `PHP` `C#` `C++`
+
+**Data**
+`SQL` `MongoDB``MariaDB`
+
+**Systems & Infrastructure**
+`Linux` `Networking` `Virtualization` `Docker`
+
+**Monitoring & Administration**
+`Grafana` `Zabbix` `Webmin`
