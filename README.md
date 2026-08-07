@@ -11,6 +11,7 @@ Currently exploring cybersecurity, DevOps, and system architecture through perso
 projects.
 
 🌐 Portfolio: https://bryanllq.pages.dev
+
 📫 Email: [bryan.lagos@proton.me](mailto:bryan.lagos@proton.me)
 
 **Languages & Frameworks**
