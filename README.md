@@ -10,7 +10,7 @@ together, not just whether the code runs.
 Currently exploring cybersecurity, DevOps, and system architecture through personal
 projects.
 
-🌐 Portfolio: https://bryanllq.pages.dev
+🌐 Portfolio: https://bryanllq.is-a.dev/
 
 📫 Email: [bryan.lagos@proton.me](mailto:bryan.lagos@proton.me)
 
