@@ -18,7 +18,7 @@ projects.
 `Node.js` `Python` `TypeScript` `React` `Angular` `PHP` `C#` `C++`
 
 **Data**
-`SQL` `MongoDB``MariaDB`
+`SQL` `MongoDB` `MariaDB` `PostGresSQL` `Metabase` 
 
 **Systems & Infrastructure**
 `Linux` `Networking` `Virtualization` `Docker`
